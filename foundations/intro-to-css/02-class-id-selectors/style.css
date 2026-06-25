@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.pink {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+#theID {
+    font-size: 36px;
+    color: blue;
+}
+.pinkButBetter {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+    font-size: 24px;
+}
+.secondID {
+    font-size: 24px;
+    background-color: rgb(135, 221, 135);
+    font-weight: bold;
+}
